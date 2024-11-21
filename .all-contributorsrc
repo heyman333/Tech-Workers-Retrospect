@@ -1,4 +1,22 @@
 {
   "projectName": "Tech-Workers-Retrospect",
-  "projectOwner": "heyman333"
+  "projectOwner": "heyman333",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "heyman333",
+      "name": "lake.zero(레이크/한영수)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22214150?v=4",
+      "profile": "https://awesomelake.net/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    }
+  ]
 }
